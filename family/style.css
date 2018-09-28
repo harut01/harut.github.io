@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+}
+
+#form {
+    position: relative;
+    height: 928px;
+}
+
+h1 {
+    position: absolute;
+    display: inline-block;
+    left: 40%;
+}
+
+#family {
+    height: 40px;
+    margin: 8% 50%;
+    position: absolute;
+    right: 5%;
+}
+
+.select {
+    position: absolute;
+    left: 40%;
+}
+
+.divBySelect {
+    height: 25%;
+}
+
+#pIdFor6 {
+    position: absolute;
+    left: 300px;
+}
